@@ -1,22 +1,36 @@
 .App {
-  text-align: center;
+    text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
+    height: 40vmin;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
 }
 
 .App-link {
-  color: #09d3ac;
+    color: #09d3ac;
+}
+
+.LOGO {
+    color: #ffffff;
+    font-size: 2em;
+    margin: 16px;
+    padding-bottom: 40px;
+}
+.ant-descriptions-title {
+    padding-top: 2em;
+    background-color: aliceblue;
+}
+.ant-descriptions {
+    background-color: aliceblue !important;
 }
